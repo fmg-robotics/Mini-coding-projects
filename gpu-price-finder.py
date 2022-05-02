@@ -1,3 +1,6 @@
+# This program finds the price of GPU's from newegg.com
+
+
 from bs4 import BeautifulSoup
 import requests
 
