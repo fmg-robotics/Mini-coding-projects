@@ -1,4 +1,4 @@
-# uses open cv to track an obect you select
+# uses open cv to track an object you select
 
 import cv2
 
